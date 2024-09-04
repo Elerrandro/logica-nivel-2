@@ -3,4 +3,4 @@
 x = 100 - 15 + 1
 soma = x * (15+100) / 2
 media = soma / x
-print(f"A média é {media}")resg
+print(f"A média é {media}")
