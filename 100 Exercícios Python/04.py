@@ -1,1 +1,5 @@
-#ACHO QUE O PROFESSOR NÃO PERCEBEU QUE PULOU DO 4 PARA 5 ENTÃO SÃO SÓ 99 EXERCÍCIOS KK
+#4) Escreva um algoritmo para ler um valor (do teclado) e escrever (na tela) o seu antecessor.
+
+N1 = int(input("Ensira um número: "))
+N2 = N1 - 1
+print(f"O atencessor do número {N1} é: {N2}")
